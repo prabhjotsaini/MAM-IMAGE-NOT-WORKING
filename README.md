@@ -1,1 +1,2 @@
-# MAM-IMAGE-NOT-WORKING
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
